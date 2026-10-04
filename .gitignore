@@ -1,0 +1,16 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Only matters if you add tooling later (npm, a bundler, etc.)
+node_modules/
+dist/
+.env
