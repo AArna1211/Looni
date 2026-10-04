@@ -3,9 +3,6 @@
 A circular step sequencer. A glowing arm sweeps 7 rings; every note it touches
 plays a plucked tone and sends out a ripple. No build step, no dependencies.
 
-## Run it
-Double-click `index.html`. (Or serve the folder: `python3 -m http.server`.)
-Tap once anywhere to unlock audio.
 
 ## Files
 | File | Job |
